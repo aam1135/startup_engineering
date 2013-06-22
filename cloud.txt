@@ -1,0 +1,3 @@
+http://tranquil-mountain-6325.herokuapp.com/
+cd /Users/masudmq/aws
+ssh -i aam1135yahoocom.pem ubuntu@ec2-67-202-29-7.compute-1.amazonaws.com
